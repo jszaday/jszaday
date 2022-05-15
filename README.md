@@ -5,7 +5,7 @@
 - 💬 Ask me about: compilers, (decentralized+distributed) computing, or programming languages
 - 📫 How to reach me: [jjszaday@gmail.com](mailto:jjszaday@gmail.com)
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I like squirrels~
+- ⚡ Fun fact: I like squirrels 🌰 🐿️
 
 <!--
 **jszaday/jszaday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
