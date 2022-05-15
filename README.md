@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on: Editing my dissertation...
+- 🔭 I’m currently working on: Editing my PhD dissertation...
 - 🌱 I’m currently learning: Solidity~
 - 🤔 I’m looking for help with: Testing _Ergoline_, a(n) HPC-oriented, Scala-like programming language.
 - 💬 Ask me about: compilers, (decentralized+distributed) computing, or programming languages
