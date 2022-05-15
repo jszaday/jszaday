@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on: Editing my dissertation...
 - 🌱 I’m currently learning: Solidity~
-- 🤔 I’m looking for help with: Documenting and testing _Ergoline_, a(n) HPC-oriented, Scala-like programming language.
+- 🤔 I’m looking for help with: Testing _Ergoline_, a(n) HPC-oriented, Scala-like programming language.
 - 💬 Ask me about: compilers, (decentralized+distributed) computing, or programming languages
 - 📫 How to reach me: [jjszaday@gmail.com](mailto:jjszaday@gmail.com)
 - 😄 Pronouns: he/him/his
