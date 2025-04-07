@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on: Making tensors flow...
-- 🌱 I’m currently learning: Solidity~
+- 🔭 I’m currently working on: Accelerating research/inference
+- 🌱 I’m currently learning: Quantum computing, mixture of experts models, and more
 - 💬 Ask me about: compilers, (decentralized+distributed) computing, or programming languages
 - 📫 How to reach me: [jjszaday@gmail.com](mailto:jjszaday@gmail.com)
 - 😄 Pronouns: he/him/his
